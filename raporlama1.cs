@@ -72,4 +72,4 @@ public class CallMetric
     public int WaitTime { get; set; }
     public DateTime ReportedAt { get; set; } //verilerin raporlandığı zaman
 }
-           // ÇAĞRI ANALİZİ VE RAPORLAMA SON
+           // ÇAĞRI ANALİZİ VE RAPORLAMA SONNN
